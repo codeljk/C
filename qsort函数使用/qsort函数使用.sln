@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort函数使用", "qsort函数使用\qsort函数使用.vcxproj", "{97D723D1-F951-4D7B-80E1-84987D94877B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Debug|x64.ActiveCfg = Debug|x64
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Debug|x64.Build.0 = Debug|x64
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Debug|x86.ActiveCfg = Debug|Win32
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Debug|x86.Build.0 = Debug|Win32
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Release|x64.ActiveCfg = Release|x64
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Release|x64.Build.0 = Release|x64
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Release|x86.ActiveCfg = Release|Win32
+		{97D723D1-F951-4D7B-80E1-84987D94877B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7DDD30-9AAC-4185-9032-273DF5A12251}
+	EndGlobalSection
+EndGlobal
