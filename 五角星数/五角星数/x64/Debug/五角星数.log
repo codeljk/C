@@ -1,0 +1,3 @@
+﻿  源.c
+D:\code\五角星数\五角星数\源.c(14,11): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  五角星数.vcxproj -> D:\code\五角星数\x64\Debug\五角星数.exe
