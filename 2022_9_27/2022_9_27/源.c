@@ -131,11 +131,57 @@ int main()
 
 	//return 0;
 
-	srand((unsigned int)time(NULL));
-	int ret = rand();
-	printf("%d\n", ret);
-	return 0;
+	//srand((unsigned int)time(NULL));
+	//int ret = rand();
+	//printf("%d\n", ret);
+	//return 0;
 
+	//char c = 0;
+	//scanf("%c", &c);
+	//switch (c) {
+	//	case 'A':
+	//		printf("Apple\n");
+	//		break;
+	//	case 'B':
+	//		printf("Banana\n");
+	//		break;
+	//	default:
+	//		printf("ÊäÈë´íÎó");
+	//}
+	//return 0;
+	int a = 0;
+	int b = 0;
+	int c = 0;
+	scanf("%d %d %d", &a, &b, &c);
+	if (a > b && a > c) {
+		printf("%d ", a);
+		if (b > c) {
+			printf("%d %d", b, c);
+		}
+		else {
+			printf("%d %d", c, b);
+		}
+	}
+	if (b > a && b > c) {
+		printf("%d ", b);
+		if (a > c) {
+			printf("%d %d", a, c);
+		}
+		else {
+			printf("%d %d", c, a);
+		}
+	}	if (c > b && c > a) {
+		printf("%d ", a);
+		if (a > c) {
+			printf("%d %d", b, a);
+		}
+		else {
+			printf("%d %d", a, b);
+		}
+	}
+
+	printf("\n");
+	return 0;
 
 
 
