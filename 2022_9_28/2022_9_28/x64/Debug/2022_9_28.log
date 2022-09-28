@@ -1,2 +1,4 @@
 ﻿  源.c
+D:\code\2022_9_28\2022_9_28\源.c(44,2): warning C4013: “system”未定义；假设外部返回 int
+D:\code\2022_9_28\2022_9_28\源.c(49,6): warning C4013: “strcmp”未定义；假设外部返回 int
   2022_9_28.vcxproj -> D:\code\2022_9_28\x64\Debug\2022_9_28.exe
