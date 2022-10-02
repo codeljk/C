@@ -1,2 +1,5 @@
-﻿  test.c
-  扫雷.vcxproj -> D:\code\扫雷\x64\Debug\扫雷.exe
+﻿  game.c
+  test.c
+  正在生成代码...
+  LINK : 没有找到 D:\Github\C\扫雷\x64\Debug\扫雷.exe 或上一个增量链接没有生成它；正在执行完全链接
+  扫雷.vcxproj -> D:\Github\C\扫雷\x64\Debug\扫雷.exe
